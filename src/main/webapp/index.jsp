@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello velocity pune-mumbai</h1>
-        <p>This is from dev branch. </p>
+        <p>This is from dev branch-IT </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
